@@ -1,2 +1,1 @@
-# Planner
-é uma espécie de agenda, só que podemos também planear a tua semana com detalhe.
+Para usar estes ficheiros, tens de os descarregar e abrir no VSCode, a seguir instalar pelo terminal o streamlit (abre o site deles, eles explicam passo a passo como instalar), e por fim instalas as bibliotecas que faltam com o comando 'pip install....' neste caso são a pandas e o plotly. Para abrires o trabalho, abre o conta.py no terminal integral e escreve o comando 'streamlit run conta.py'. 
